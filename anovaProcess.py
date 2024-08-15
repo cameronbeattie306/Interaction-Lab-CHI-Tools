@@ -10,6 +10,33 @@ import os
 
 # Prints Latex tables for each csv in the directory, or the single csv anova
 
+
+
+
+
+
+
+
+# Here's some example R code to generate a CSV from an anova
+# CT_ANOVA <- ezANOVA(
+#   data = success_trials,
+#   dv = completionTime,
+#   wid = pID,
+#   within = .(interaction, block),
+#   between = .(device),
+#   type = 3,
+#   #detailed = TRUE,
+#   ##return_aov = TRUE
+# )
+# CT_ANOVA
+# write.csv(CT_ANOVA["ANOVA"],
+#           paste0(directory, "ANOVAS/CT_ANOVA.csv"),
+#           row.names = TRUE)
+
+
+
+
+
 def format_scientific(x):
     try:
         return "{:.2e}".format(float(x))
