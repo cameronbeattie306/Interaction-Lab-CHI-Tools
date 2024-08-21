@@ -151,10 +151,11 @@ def generate_latex_table(csv_file):
     #     "\\end{table}"
     # )
     base_name = os.path.splitext(os.path.basename(csv_file))[0]
+    baseNameString = base_name.replace("_", " ")
     latex_content.append(
         "\\hline\n"
         "\\end{tabular}\n"
-        f"\\caption{{ANOVA Results from {base_name}}}\n"
+        f"\\caption{{ANOVA Results from {baseNameString}}}\n"
         f"\\label{{tab:{base_name}_anova_results}}\n"
         "\\end{table}"
     )
@@ -162,8 +163,6 @@ def generate_latex_table(csv_file):
         
     
     # Join all parts and print
-    print(f"\subsubsection{{{base_name}}}")
-
     full_latex_table = ''.join(latex_content)
     print(full_latex_table)
     print()
