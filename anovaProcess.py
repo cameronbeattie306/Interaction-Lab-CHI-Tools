@@ -84,7 +84,7 @@ def generate_latex_table(csv_file):
         df = df.drop(columns=[df.columns[0]])
 
     # Replace ":" with " x " in the 'Effect' column
-    df['ANOVA.Effect'] = df['ANOVA.Effect'].str.replace(':', ' x ')
+    df['ANOVA.Effect'] = df['ANOVA.Effect'].str.replace(':', ' $\\times$ ')
 
     # Combine 'DFn' and 'DFd' into a single column
     df['DF (n,d)'] = df.apply(lambda row: f"{row['ANOVA.DFn']}, {row['ANOVA.DFd']}", axis=1)
