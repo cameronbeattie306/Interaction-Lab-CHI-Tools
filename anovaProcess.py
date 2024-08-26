@@ -66,9 +66,13 @@ def round_scientific_to_decimal(x):
 
 
 def processRow(row):
+    value = round_scientific_to_decimal(row["p"])
+
     if row["p < 0.05"] != "*":
         row["Eta Squared"] = ""
-    row["p"] = round_scientific_to_decimal(row["p"])
+        row["p"] = value
+    else:
+        row["p"] = "\\textbf{" + value + "}"
     return row
 
 def generate_latex_table(csv_file):
@@ -99,6 +103,7 @@ def generate_latex_table(csv_file):
     df['p'] = df['p'].apply(format_scientific)
     df['p < 0.05'] = df['p < 0.05'].apply(format_scientific)
 
+
     # Round F statistics to 2 decimal points
     df['F'] = df['F'].apply(lambda x: "{:.2f}".format(float(x)) if x != '' else '')
 
@@ -114,7 +119,7 @@ def generate_latex_table(csv_file):
         "\\centering\n"
         "\\begin{tabular}{|c|c|c|c|c|c|p{6cm}|}\n"
         "\\hline\n"
-        "\\textbf{Factor} & \\textbf{DF (n,d)} & \\textbf{F} & \\textbf{p} & \\textbf{p < 0.05} & \\textbf{$\\eta^2$} & \\textbf{Pairwise Contrasts (mean), t-test result} \\\\\n"
+        "\\textbf{Factor} & \\textbf{DF (n,d)} & \\textbf{F} & \\textbf{p} & \\textbf{$\\eta^2$} & \\textbf{Pairwise Contrasts (mean), t-test result} \\\\\n"
         "\\hline\n"
     )
     
@@ -136,7 +141,7 @@ def generate_latex_table(csv_file):
 
             # Append the row content
             latex_content.append(
-                f"{row['Effect']} & {row['DF (n,d)']} & {row['F']} & {row['p']} & {row['p < 0.05']} & {row['Eta Squared']} & {row['Pairwise Contrasts (mean), t-test result']} \\\\\n"
+                f"{row['Effect']} & {row['DF (n,d)']} & {row['F']} & {row['p']} & {row['Eta Squared']} & {row['Pairwise Contrasts (mean), t-test result']} \\\\\n"
             )
             
             # Update the previous factor count
