@@ -15,7 +15,8 @@ def csv_to_latex(file_path):
         
         # LaTeX table setup
         column_format = ' | '.join(['c' for _ in headers])
-        latex_table = "\\begin{tabular}{" + column_format + "| p{6cm}|}\n"
+        latex_table = "\\begin{table}[h!]\n\\centering\n"
+        latex_table += "\\begin{tabular}{| " + column_format + "| p{6cm}|}\n"
 
         latex_table += "\\hline\n"
         # Add the header to the LaTeX table
@@ -27,11 +28,12 @@ def csv_to_latex(file_path):
         for row in reader:
             latex_row = ' & '.join(row) + " \\\\"
             latex_table += latex_row + "\n"
+            latex_table += "\\hline\n"
+        latex_table += "\\end{tabular}"
         latex_table += "\\caption{placeholder}\n"
         latex_table += "\\label{tab:placeholder}\n"
-        latex_table += "\\hline\n"
-        latex_table += "\\end{tabular}"
-        
+        latex_table += "\\end{table}"
+
         # Print the resulting LaTeX table
         print(latex_table)
         print("\n\n")  # Add some space between tables
