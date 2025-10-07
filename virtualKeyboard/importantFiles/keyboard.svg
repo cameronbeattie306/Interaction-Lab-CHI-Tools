@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg-keyboard" width="1100mm" height="400mm" version="1.1" viewBox="0 0 1100 400" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style type="text/css">
+   @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@500&amp;display=swap');
+  </style>
+ </defs>
+ <g id="layer1">
+  <rect id="rect960" x="1.3" y="80" width="725" height="290" rx="22" fill="#335670" stroke="#000" stroke-width="2.6"/>
+  <g id="Backquote" transform="translate(9.6273 99.707)" fill="#f7f7f7" fill-opacity=".77652" stroke-linejoin="round">
+   <rect id="rect833-1" x="23.331" y="12.658" width="40.01" height="39.538" rx=".09809" ry=".098819" stroke="#4a4a4a" stroke-width="2.7851"/>
+   <rect id="rect833" x="21.93" y="11.347" width="42.845" height="42.845" rx="2.2255" stroke="#313131" stroke-linecap="round" stroke-width="1.1551"/>
+  </g>
+  <g id="Tab" transform="matrix(1.5048 0 0 1 -1.4442 143.71)" fill="#f7f7f7" fill-opacity=".77652" stroke-linejoin="round">
+   <rect id="rect1169" x="23.331" y="12.658" width="40.01" height="39.538" rx=".09809" ry=".098819" stroke="#4a4a4a" stroke-width="2.7851"/>
+   <rect id="rect1171" x="21.93" y="11.347" width="42.845" height="42.845" rx="2.2255" stroke="#313131" stroke-linecap="round" stroke-width="1.1551"/>
+  </g>
+  <g id="CapsLock" transform="matrix(.89767 0 0 1.0004 11.864 99.663)" fill="#f7f7f7" fill-opacity=".77652" stroke-linejoin="round">
+   <rect id="rect4075" x="23.531" y="100.67" width="81.304" height="39.899" rx=".19933" ry=".09972" stroke="#4a4a4a" stroke-width="2.5468"/>
+   <rect id="rect4077" x="21.93" y="99.347" width="84.662" height="42.845" rx="3" stroke="#313131" stroke-linecap="round" stroke-width="1.1"/>
+  </g>
+  <g id="ShiftLeft" transform="matrix(.95499 0 0 1.0007 10.599 99.587)" fill="#f7f7f7" fill-opacity=".77652" stroke-linejoin="round">
+   <rect id="rect4063" x="22.902" y="144.67" width="99.938" height="39.513" rx=".24501" ry=".098755" stroke="#4a4a4a" stroke-width="2.7589"/>
+   <rect id="rect4065" x="21.93" y="143.35" width="102.43" height="42.845" rx="3" stroke="#313131" stroke-linecap="round" stroke-width="1.2"/>
+  </g>
+  <g id="Digit1" transform="translate(53.627 99.707)" fill="#f7f7f7" fill-opacity=".77652" stroke-linejoin="round">
+   <rect id="rect1175" x="23.331" y="12.658" width="40.01" height="39.538" rx=".09809" ry=".098819" stroke="#4a4a4a" stroke-width="2.7851"/>
+   <rect id="rect1177" x="21.93" y="11.347" width="42.845" height="42.845" rx="2.2255" stroke="#313131" stroke-linecap="round" stroke-width="1.1551"/>
+  </g>
+  <g id="KeyQ" transform="translate(75.55 143.71)" fill="#f7f7f7" fill-opacity=".77652" stroke-linejoin="round">
+   <rect id="rect1181" x="23.331" y="12.658" width="40.01" height="39.538" rx=".09809" ry=".098819" stroke="#4a4a4a" stroke-width="2.7851"/>
+   <rect id="rect1183" x="21.93" y="11.347" width="42.845" height="42.845" rx="2.2255" stroke="#313131" stroke-linecap="round" stroke-width="1.1551"/>
+  </g>
+  <g id="KeyA" transform="translate(86.702 187.71)" fill="#f7f7f7" fill-opacity=".77652" stroke-linejoin="round">
+   <rect id="rect1187" x="23.331" y="12.658" width="40.01" height="39.538" rx=".09809" ry=".098819" stroke="#4a4a4a" stroke-width="2.7851"/>
+   <rect id="rect1189" x="21.93" y="11.347" width="42.845" height="42.845" rx="2.2255" stroke="#313131" stroke-linecap="round" stroke-width="1.1551"/>
+  </g>
+  <g id="KeyZ" transform="translate(108.6 231.71)" fill="#f7f7f7" fill-opacity=".77652" stroke-linejoin="round">
+   <rect id="rect1193" x="23.331" y="12.658" width="40.01" height="39.538" rx=".09809" ry=".098819" stroke="#4a4a4a" stroke-width="2.7851"/>
+   <rect id="rect1195" x="21.93" y="11.347" width="42.845" height="42.845" rx="2.2255" stroke="#313131" stroke-linecap="round" stroke-width="1.1551"/>
+  </g>
+  <g id="Digit2" transform="translate(97.627 99.707)" fill="#f7f7f7" fill-opacity=".77652" stroke-linejoin="round">
+   <rect id="rect1199" x="23.331" y="12.658" width="40.01" height="39.538" rx=".09809" ry=".098819" stroke="#4a4a4a" stroke-width="2.7851"/>
+   <rect id="rect1201" x="21.93" y="11.347" width="42.845" height="42.845" rx="2.2255" stroke="#313131" stroke-linecap="round" stroke-width="1.1551"/>
+  </g>
+  <g id="KeyW" transform="translate(119.55 143.71)" fill="#f7f7f7" fill-opacity=".77652" stroke-linejoin="round">
+   <rect id="rect1205" x="23.331" y="12.658" width="40.01" height="39.538" rx=".09809" ry=".098819" stroke="#4a4a4a" stroke-width="2.7851"/>
+   <rect id="rect1207" x="21.93" y="11.347" width="42.845" height="42.845" rx="2.2255" stroke="#313131" stroke-linecap="round" stroke-width="1.1551"/>
+  </g>
+  <g id="KeyS" transform="translate(130.7 187.71)" fill="#f7f7f7" fill-opacity=".77652" stroke-linejoin="round">
+   <rect id="rect1211" x="23.331" y="12.658" width="40.01" height="39.538" rx=".09809" ry=".098819" stroke="#4a4a4a" stroke-width="2.7851"/>
+   <rect id="rect1213" x="21.93" y="11.347" width="42.845" height="42.845" rx="2.2255" stroke="#313131" stroke-linecap="round" stroke-width="1.1551"/>
+  </g>
+  <g id="KeyX" transform="translate(152.6 231.71)" fill="#f7f7f7" fill-opacity=".77652" stroke-linejoin="round">
+   <rect id="rect1217" x="23.331" y="12.658" width="40.01" height="39.538" rx=".09809" ry=".098819" stroke="#4a4a4a" stroke-width="2.7851"/>
+   <rect id="rect1219" x="21.93" y="11.347" width="42.845" height="42.845" rx="2.2255" stroke="#313131" stroke-linecap="round" stroke-width="1.1551"/>
+  </g>
+  <g id="Digit3" transform="translate(141.63 99.707)" fill="#f7f7f7" fill-opacity=".77652" stroke-linejoin="round">
+   <rect id="rect1223" x="23.331" y="12.658" width="40.01" height="39.538" rx=".09809" ry=".098819" stroke="#4a4a4a" stroke-width="2.7851"/>
+   <rect id="rect1225" x="21.93" y="11.347" width="42.845" height="42.845" rx="2.2255" stroke="#313131" stroke-linecap="round" stroke-width="1.1551"/>
+  </g>
+  <g id="KeyE" transform="translate(163.55 143.71)" fill="#f7f7f7" fill-opacity=".77652" stroke-linejoin="round">
+   <rect id="rect1229" x="23.331" y="12.658" width="40.01" height="39.538" rx=".09809" ry=".098819" stroke="#4a4a4a" stroke-width="2.7851"/>
+   <rect id="rect1231" x="21.93" y="11.347" width="42.845" height="42.845" rx="2.2255" stroke="#313131" stroke-linecap="round" stroke-width="1.1551"/>
+  </g>
+  <g id="KeyD" transform="translate(174.7 187.71)" fill="#f7f7f7" fill-opacity=".77652" stroke-linejoin="round">
+   <rect id="rect1235" x="23.331" y="12.658" width="40.01" height="39.538" rx=".09809" ry=".098819" stroke="#4a4a4a" stroke-width="2.7851"/>
+   <rect id="rect1237" x="21.93" y="11.347" width="42.845" height="42.845" rx="2.2255" stroke="#313131" stroke-linecap="round" stroke-width="1.1551"/>
+  </g>
+  <g id="KeyC" transform="translate(196.6 231.71)" fill="#f7f7f7" fill-opacity=".77652" stroke-linejoin="round">
+   <rect id="rect1241" x="23.331" y="12.658" width="40.01" height="39.538" rx=".09809" ry=".098819" stroke="#4a4a4a" stroke-width="2.7851"/>
+   <rect id="rect1243" x="21.93" y="11.347" width="42.845" height="42.845" rx="2.2255" stroke="#313131" stroke-linecap="round" stroke-width="1.1551"/>
+  </g>
+  <g id="Digit4" transform="translate(185.63 99.707)" fill="#f7f7f7" fill-opacity=".77652" stroke-linejoin="round">
+   <rect id="rect1247" x="23.331" y="12.658" width="40.01" height="39.538" rx=".09809" ry=".098819" stroke="#4a4a4a" stroke-width="2.7851"/>
+   <rect id="rect1249" x="21.93" y="11.347" width="42.845" height="42.845" rx="2.2255" stroke="#313131" stroke-linecap="round" stroke-width="1.1551"/>
+  </g>
+  <g id="KeyR" transform="translate(207.55 143.71)" fill="#f7f7f7" fill-opacity=".77652" stroke-linejoin="round">
+   <rect id="rect1253" x="23.331" y="12.658" width="40.01" height="39.538" rx=".09809" ry=".098819" stroke="#4a4a4a" stroke-width="2.7851"/>
+   <rect id="rect1255" x="21.93" y="11.347" width="42.845" height="42.845" rx="2.2255" stroke="#313131" stroke-linecap="round" stroke-width="1.1551"/>
+  </g>
+  <g id="KeyF" transform="translate(218.7 187.71)" fill="#f7f7f7" fill-opacity=".77652" stroke-linejoin="round">
+   <rect id="rect1259" x="23.331" y="12.658" width="40.01" height="39.538" rx=".09809" ry=".098819" stroke="#4a4a4a" stroke-width="2.7851"/>
+   <rect id="rect1261" x="21.93" y="11.347" width="42.845" height="42.845" rx="2.2255" stroke="#313131" stroke-linecap="round" stroke-width="1.1551"/>
+  </g>
+  <g id="KeyV" transform="translate(240.6 231.71)" fill="#f7f7f7" fill-opacity=".77652" stroke-linejoin="round">
+   <rect id="rect1265" x="23.331" y="12.658" width="40.01" height="39.538" rx=".09809" ry=".098819" stroke="#4a4a4a" stroke-width="2.7851"/>
+   <rect id="rect1267" x="21.93" y="11.347" width="42.845" height="42.845" rx="2.2255" stroke="#313131" stroke-linecap="round" stroke-width="1.1551"/>
+  </g>
+  <g id="Digit5" transform="translate(229.63 99.707)" fill="#f7f7f7" fill-opacity=".77652" stroke-linejoin="round">
+   <rect id="rect1271" x="23.331" y="12.658" width="40.01" height="39.538" rx=".09809" ry=".098819" stroke="#4a4a4a" stroke-width="2.7851"/>
+   <rect id="rect1273" x="21.93" y="11.347" width="42.845" height="42.845" rx="2.2255" stroke="#313131" stroke-linecap="round" stroke-width="1.1551"/>
+  </g>
+  <g id="KeyT" transform="translate(251.55 143.71)" fill="#f7f7f7" fill-opacity=".77652" stroke-linejoin="round">
+   <rect id="rect1277" x="23.331" y="12.658" width="40.01" height="39.538" rx=".09809" ry=".098819" stroke="#4a4a4a" stroke-width="2.7851"/>
+   <rect id="rect1279" x="21.93" y="11.347" width="42.845" height="42.845" rx="2.2255" stroke="#313131" stroke-linecap="round" stroke-width="1.1551"/>
+  </g>
+  <g id="KeyG" transform="translate(262.7 187.71)" fill="#f7f7f7" fill-opacity=".77652" stroke-linejoin="round">
+   <rect id="rect1283" x="23.331" y="12.658" width="40.01" height="39.538" rx=".09809" ry=".098819" stroke="#4a4a4a" stroke-width="2.7851"/>
+   <rect id="rect1285" x="21.93" y="11.347" width="42.845" height="42.845" rx="2.2255" stroke="#313131" stroke-linecap="round" stroke-width="1.1551"/>
+  </g>
+  <g id="KeyB" transform="translate(284.6 231.71)" fill="#f7f7f7" fill-opacity=".77652" stroke-linejoin="round">
+   <rect id="rect1289" x="23.331" y="12.658" width="40.01" height="39.538" rx=".09809" ry=".098819" stroke="#4a4a4a" stroke-width="2.7851"/>
+   <rect id="rect1291" x="21.93" y="11.347" width="42.845" height="42.845" rx="2.2255" stroke="#313131" stroke-linecap="round" stroke-width="1.1551"/>
+  </g>
+  <g id="Digit6" transform="translate(273.63 99.707)" fill="#f7f7f7" fill-opacity=".77652" stroke-linejoin="round">
+   <rect id="rect1295" x="23.331" y="12.658" width="40.01" height="39.538" rx=".09809" ry=".098819" stroke="#4a4a4a" stroke-width="2.7851"/>
+   <rect id="rect1297" x="21.93" y="11.347" width="42.845" height="42.845" rx="2.2255" stroke="#313131" stroke-linecap="round" stroke-width="1.1551"/>
+  </g>
+  <g id="KeyY" transform="translate(295.55 143.71)" fill="#f7f7f7" fill-opacity=".77652" stroke-linejoin="round">
+   <rect id="rect1301" x="23.331" y="12.658" width="40.01" height="39.538" rx=".09809" ry=".098819" stroke="#4a4a4a" stroke-width="2.7851"/>
+   <rect id="rect1303" x="21.93" y="11.347" width="42.845" height="42.845" rx="2.2255" stroke="#313131" stroke-linecap="round" stroke-width="1.1551"/>
+  </g>
+  <g id="KeyH" transform="translate(306.7 187.71)" fill="#f7f7f7" fill-opacity=".77652" stroke-linejoin="round">
+   <rect id="rect1307" x="23.331" y="12.658" width="40.01" height="39.538" rx=".09809" ry=".098819" stroke="#4a4a4a" stroke-width="2.7851"/>
+   <rect id="rect1309" x="21.93" y="11.347" width="42.845" height="42.845" rx="2.2255" stroke="#313131" stroke-linecap="round" stroke-width="1.1551"/>
+  </g>
+  <g id="KeyN" transform="translate(328.6 231.71)" fill="#f7f7f7" fill-opacity=".77652" stroke-linejoin="round">
+   <rect id="rect1313" x="23.331" y="12.658" width="40.01" height="39.538" rx=".09809" ry=".098819" stroke="#4a4a4a" stroke-width="2.7851"/>
+   <rect id="rect1315" x="21.93" y="11.347" width="42.845" height="42.845" rx="2.2255" stroke="#313131" stroke-linecap="round" stroke-width="1.1551"/>
+  </g>
+  <g id="Digit7" transform="translate(317.63 99.707)" fill="#f7f7f7" fill-opacity=".77652" stroke-linejoin="round">
+   <rect id="rect1319" x="23.331" y="12.658" width="40.01" height="39.538" rx=".09809" ry=".098819" stroke="#4a4a4a" stroke-width="2.7851"/>
+   <rect id="rect1321" x="21.93" y="11.347" width="42.845" height="42.845" rx="2.2255" stroke="#313131" stroke-linecap="round" stroke-width="1.1551"/>
+  </g>
+  <g id="KeyU" transform="translate(339.55 143.71)" fill="#f7f7f7" fill-opacity=".77652" stroke-linejoin="round">
+   <rect id="rect1325" x="23.331" y="12.658" width="40.01" height="39.538" rx=".09809" ry=".098819" stroke="#4a4a4a" stroke-width="2.7851"/>
+   <rect id="rect1327" x="21.93" y="11.347" width="42.845" height="42.845" rx="2.2255" stroke="#313131" stroke-linecap="round" stroke-width="1.1551"/>
+  </g>
+  <g id="KeyJ" transform="translate(350.7 187.71)" fill="#f7f7f7" fill-opacity=".77652" stroke-linejoin="round">
+   <rect id="rect1331" x="23.331" y="12.658" width="40.01" height="39.538" rx=".09809" ry=".098819" stroke="#4a4a4a" stroke-width="2.7851"/>
+   <rect id="rect1333" x="21.93" y="11.347" width="42.845" height="42.845" rx="2.2255" stroke="#313131" stroke-linecap="round" stroke-width="1.1551"/>
+  </g>
+  <g id="KeyM" transform="translate(372.6 231.71)" fill="#f7f7f7" fill-opacity=".77652" stroke-linejoin="round">
+   <rect id="rect1337" x="23.331" y="12.658" width="40.01" height="39.538" rx=".09809" ry=".098819" stroke="#4a4a4a" stroke-width="2.7851"/>
+   <rect id="rect1339" x="21.93" y="11.347" width="42.845" height="42.845" rx="2.2255" stroke="#313131" stroke-linecap="round" stroke-width="1.1551"/>
+  </g>
+  <g id="Digit8" transform="translate(361.63 99.707)" fill="#f7f7f7" fill-opacity=".77652" stroke-linejoin="round">
+   <rect id="rect1343" x="23.331" y="12.658" width="40.01" height="39.538" rx=".09809" ry=".098819" stroke="#4a4a4a" stroke-width="2.7851"/>
+   <rect id="rect1345" x="21.93" y="11.347" width="42.845" height="42.845" rx="2.2255" stroke="#313131" stroke-linecap="round" stroke-width="1.1551"/>
+  </g>
+  <g id="KeyI" transform="translate(383.55 143.71)" fill="#f7f7f7" fill-opacity=".77652" stroke-linejoin="round">
+   <rect id="rect1349" x="23.331" y="12.658" width="40.01" height="39.538" rx=".09809" ry=".098819" stroke="#4a4a4a" stroke-width="2.7851"/>
+   <rect id="rect1351" x="21.93" y="11.347" width="42.845" height="42.845" rx="2.2255" stroke="#313131" stroke-linecap="round" stroke-width="1.1551"/>
+  </g>
+  <g id="KeyK" transform="translate(394.7 187.71)" fill="#f7f7f7" fill-opacity=".77652" stroke-linejoin="round">
+   <rect id="rect1355" x="23.331" y="12.658" width="40.01" height="39.538" rx=".09809" ry=".098819" stroke="#4a4a4a" stroke-width="2.7851"/>
+   <rect id="rect1357" x="21.93" y="11.347" width="42.845" height="42.845" rx="2.2255" stroke="#313131" stroke-linecap="round" stroke-width="1.1551"/>
+  </g>
+  <g id="Comma" transform="translate(416.6 231.71)" fill="#f7f7f7" fill-opacity=".77652" stroke-linejoin="round">
+   <rect id="rect1361" x="23.331" y="12.658" width="40.01" height="39.538" rx=".09809" ry=".098819" stroke="#4a4a4a" stroke-width="2.7851"/>
+   <rect id="rect1363" x="21.93" y="11.347" width="42.845" height="42.845" rx="2.2255" stroke="#313131" stroke-linecap="round" stroke-width="1.1551"/>
+  </g>
+  <g id="Digit9" transform="translate(405.63 99.707)" fill="#f7f7f7" fill-opacity=".77652" stroke-linejoin="round">
+   <rect id="rect1367" x="23.331" y="12.658" width="40.01" height="39.538" rx=".09809" ry=".098819" stroke="#4a4a4a" stroke-width="2.7851"/>
+   <rect id="rect1369" x="21.93" y="11.347" width="42.845" height="42.845" rx="2.2255" stroke="#313131" stroke-linecap="round" stroke-width="1.1551"/>
+  </g>
+  <g id="KeyO" transform="translate(427.55 143.71)" fill="#f7f7f7" fill-opacity=".77652" stroke-linejoin="round">
+   <rect id="rect1373" x="23.331" y="12.658" width="40.01" height="39.538" rx=".09809" ry=".098819" stroke="#4a4a4a" stroke-width="2.7851"/>
+   <rect id="rect1375" x="21.93" y="11.347" width="42.845" height="42.845" rx="2.2255" stroke="#313131" stroke-linecap="round" stroke-width="1.1551"/>
+  </g>
+  <g id="KeyL" transform="translate(438.7 187.71)" fill="#f7f7f7" fill-opacity=".77652" stroke-linejoin="round">
+   <rect id="rect1379" x="23.331" y="12.658" width="40.01" height="39.538" rx=".09809" ry=".098819" stroke="#4a4a4a" stroke-width="2.7851"/>
+   <rect id="rect1381" x="21.93" y="11.347" width="42.845" height="42.845" rx="2.2255" stroke="#313131" stroke-linecap="round" stroke-width="1.1551"/>
+  </g>
+  <g id="Period" transform="translate(460.6 231.71)" fill="#f7f7f7" fill-opacity=".77652" stroke-linejoin="round">
+   <rect id="rect1385" x="23.331" y="12.658" width="40.01" height="39.538" rx=".09809" ry=".098819" stroke="#4a4a4a" stroke-width="2.7851"/>
+   <rect id="rect1387" x="21.93" y="11.347" width="42.845" height="42.845" rx="2.2255" stroke="#313131" stroke-linecap="round" stroke-width="1.1551"/>
+  </g>
+  <g id="Digit0" transform="translate(449.63 99.707)" fill="#f7f7f7" fill-opacity=".77652" stroke-linejoin="round">
+   <rect id="rect1391" x="23.331" y="12.658" width="40.01" height="39.538" rx=".09809" ry=".098819" stroke="#4a4a4a" stroke-width="2.7851"/>
+   <rect id="rect1393" x="21.93" y="11.347" width="42.845" height="42.845" rx="2.2255" stroke="#313131" stroke-linecap="round" stroke-width="1.1551"/>
+  </g>
+  <g id="KeyP" transform="translate(471.55 143.71)" fill="#f7f7f7" fill-opacity=".77652" stroke-linejoin="round">
+   <rect id="rect1397" x="23.331" y="12.658" width="40.01" height="39.538" rx=".09809" ry=".098819" stroke="#4a4a4a" stroke-width="2.7851"/>
+   <rect id="rect1399" x="21.93" y="11.347" width="42.845" height="42.845" rx="2.2255" stroke="#313131" stroke-linecap="round" stroke-width="1.1551"/>
+  </g>
+  <g id="Semicolon" transform="translate(482.7 187.71)" fill="#f7f7f7" fill-opacity=".77652" stroke-linejoin="round">
+   <rect id="rect1403" x="23.331" y="12.658" width="40.01" height="39.538" rx=".09809" ry=".098819" stroke="#4a4a4a" stroke-width="2.7851"/>
+   <rect id="rect1405" x="21.93" y="11.347" width="42.845" height="42.845" rx="2.2255" stroke="#313131" stroke-linecap="round" stroke-width="1.1551"/>
+  </g>
+  <g id="Slash" transform="translate(504.6 231.71)" fill="#f7f7f7" fill-opacity=".77652" stroke-linejoin="round">
+   <rect id="rect1409" x="23.331" y="12.658" width="40.01" height="39.538" rx=".09809" ry=".098819" stroke="#4a4a4a" stroke-width="2.7851"/>
+   <rect id="rect1411" x="21.93" y="11.347" width="42.845" height="42.845" rx="2.2255" stroke="#313131" stroke-linecap="round" stroke-width="1.1551"/>
+  </g>
+  <g id="Minus" transform="translate(493.63 99.707)" fill="#f7f7f7" fill-opacity=".77652" stroke-linejoin="round">
+   <rect id="rect1415" x="23.331" y="12.658" width="40.01" height="39.538" rx=".09809" ry=".098819" stroke="#4a4a4a" stroke-width="2.7851"/>
+   <rect id="rect1417" x="21.93" y="11.347" width="42.845" height="42.845" rx="2.2255" stroke="#313131" stroke-linecap="round" stroke-width="1.1551"/>
+  </g>
+  <g id="BracketLeft" transform="translate(515.55 143.71)" fill="#f7f7f7" fill-opacity=".77652" stroke-linejoin="round">
+   <rect id="rect1421" x="23.331" y="12.658" width="40.01" height="39.538" rx=".09809" ry=".098819" stroke="#4a4a4a" stroke-width="2.7851"/>
+   <rect id="rect1423" x="21.93" y="11.347" width="42.845" height="42.845" rx="2.2255" stroke="#313131" stroke-linecap="round" stroke-width="1.1551"/>
+  </g>
+  <g id="Quote" transform="translate(526.7 187.71)" fill="#f7f7f7" fill-opacity=".77652" stroke-linejoin="round">
+   <rect id="rect1427" x="23.331" y="12.658" width="40.01" height="39.538" rx=".09809" ry=".098819" stroke="#4a4a4a" stroke-width="2.7851"/>
+   <rect id="rect1429" x="21.93" y="11.347" width="42.845" height="42.845" rx="2.2255" stroke="#313131" stroke-linecap="round" stroke-width="1.1551"/>
+  </g>
+  <g id="Equal" transform="translate(537.63 99.707)" fill="#f7f7f7" fill-opacity=".77652" stroke-linejoin="round">
+   <rect id="rect1433" x="23.331" y="12.658" width="40.01" height="39.538" rx=".09809" ry=".098819" stroke="#4a4a4a" stroke-width="2.7851"/>
+   <rect id="rect1435" x="21.93" y="11.347" width="42.845" height="42.845" rx="2.2255" stroke="#313131" stroke-linecap="round" stroke-width="1.1551"/>
+  </g>
+  <g id="BracketRight" transform="translate(559.55 143.71)" fill="#f7f7f7" fill-opacity=".77652" stroke-linejoin="round">
+   <rect id="rect1439" x="23.331" y="12.658" width="40.01" height="39.538" rx=".09809" ry=".098819" stroke="#4a4a4a" stroke-width="2.7851"/>
+   <rect id="rect1441" x="21.93" y="11.347" width="42.845" height="42.845" rx="2.2255" stroke="#313131" stroke-linecap="round" stroke-width="1.1551"/>
+  </g>
+  <g id="ShiftRight" transform="matrix(.98805 0 0 1.0035 -5.4562 -18.14)" fill="#f7f7f7" fill-opacity=".77652" stroke-linejoin="round">
+   <rect id="rect1050" x="584.35" y="261.71" width="118.38" height="39.881" rx=".28974" stroke="#4a4a4a" stroke-width="2.1314"/>
+   <rect id="rect1052" x="582.9" y="260.28" width="121.44" height="42.69" rx="3.0725" stroke="#313131" stroke-linecap="round" stroke-width="1.018"/>
+  </g>
+  <g id="Backslash" transform="matrix(1.4963 0 0 1 593 143.71)" fill="#f7f7f7" fill-opacity=".77652" stroke-linejoin="round">
+   <rect id="rect1445" x="23.331" y="12.658" width="40.01" height="39.538" rx=".09809" ry=".098819" stroke="#4a4a4a" stroke-width="2.7851"/>
+   <rect id="rect1447" x="21.93" y="11.347" width="42.845" height="42.845" rx="2.2255" stroke="#313131" stroke-linecap="round" stroke-width="1.1551"/>
+  </g>
+  <g id="ControlLeft" transform="matrix(1.25 0 0 1.0024 4.0677 275.62)" fill="#f7f7f7" fill-opacity=".77652" stroke-linejoin="round">
+   <rect id="rect1451" x="23.331" y="12.658" width="40.01" height="39.538" rx=".09809" ry=".098819" stroke="#4a4a4a" stroke-width="2.7851"/>
+   <rect id="rect1453" x="21.93" y="11.347" width="42.845" height="42.845" rx="2.2255" stroke="#313131" stroke-linecap="round" stroke-width="1.1551"/>
+  </g>
+  <g id="Space" transform="matrix(.89706 0 0 1.0018 3.2333 23.982)" fill="#f7f7f7" fill-opacity=".77652" stroke-linejoin="round">
+   <rect id="rect833-1-5" x="216.96" y="263.94" width="301.91" height="39.211" rx=".74016" stroke="#4a4a4a" stroke-width="2.6687"/>
+   <rect id="rect833-5" x="215.45" y="262.71" width="304.97" height="42.506" rx="3.0202" stroke="#313131" stroke-linecap="round" stroke-width="1.4991"/>
+  </g>
+  <g id="Backspace" transform="matrix(1.0194 0 0 1.0008 581.17 11.602)" fill="#f7f7f7" fill-opacity=".77652" stroke-linejoin="round">
+   <rect id="rect4075-1" x="23.531" y="100.67" width="81.304" height="39.899" rx=".19933" ry=".09972" stroke="#4a4a4a" stroke-width="2.5468"/>
+   <rect id="rect4077-6" x="21.93" y="99.347" width="84.662" height="42.845" rx="3" stroke="#313131" stroke-linecap="round" stroke-width="1.1"/>
+  </g>
+  <!--
+  <g id="F1" transform="translate(97.627 26.153)" fill="#f7f7f7" fill-opacity=".77652" stroke-linejoin="round">
+   <rect id="rect1457" x="23.331" y="12.658" width="40.01" height="39.538" rx=".09809" ry=".098819" stroke="#4a4a4a" stroke-width="2.7851"/>
+   <rect id="rect1459" x="21.93" y="11.347" width="42.845" height="42.845" rx="2.2255" stroke="#313131" stroke-linecap="round" stroke-width="1.1551"/>
+  </g>
+  <g id="F2" transform="translate(141.63 26.153)" fill="#f7f7f7" fill-opacity=".77652" stroke-linejoin="round">
+   <rect id="rect1463" x="23.331" y="12.658" width="40.01" height="39.538" rx=".09809" ry=".098819" stroke="#4a4a4a" stroke-width="2.7851"/>
+   <rect id="rect1465" x="21.93" y="11.347" width="42.845" height="42.845" rx="2.2255" stroke="#313131" stroke-linecap="round" stroke-width="1.1551"/>
+  </g>
+  <g id="F3" transform="translate(185.63 26.153)" fill="#f7f7f7" fill-opacity=".77652" stroke-linejoin="round">
+   <rect id="rect1469" x="23.331" y="12.658" width="40.01" height="39.538" rx=".09809" ry=".098819" stroke="#4a4a4a" stroke-width="2.7851"/>
+   <rect id="rect1471" x="21.93" y="11.347" width="42.845" height="42.845" rx="2.2255" stroke="#313131" stroke-linecap="round" stroke-width="1.1551"/>
+  </g>
+  <g id="F4" transform="translate(229.63 26.153)" fill="#f7f7f7" fill-opacity=".77652" stroke-linejoin="round">
+   <rect id="rect1475" x="23.331" y="12.658" width="40.01" height="39.538" rx=".09809" ry=".098819" stroke="#4a4a4a" stroke-width="2.7851"/>
+   <rect id="rect1477" x="21.93" y="11.347" width="42.845" height="42.845" rx="2.2255" stroke="#313131" stroke-linecap="round" stroke-width="1.1551"/>
+  </g>
+  <g id="Escape" transform="translate(9.6275 26.153)" fill="#f7f7f7" fill-opacity=".77652" stroke-linejoin="round">
+   <rect id="rect1481" x="23.331" y="12.658" width="40.01" height="39.538" rx=".09809" ry=".098819" stroke="#4a4a4a" stroke-width="2.7851"/>
+   <rect id="rect1483" x="21.93" y="11.347" width="42.845" height="42.845" rx="2.2255" stroke="#313131" stroke-linecap="round" stroke-width="1.1551"/>
+  </g>
+  <g id="F5" transform="translate(295.9 26.153)" fill="#f7f7f7" fill-opacity=".77652" stroke-linejoin="round">
+   <rect id="rect1487" x="23.331" y="12.658" width="40.01" height="39.538" rx=".09809" ry=".098819" stroke="#4a4a4a" stroke-width="2.7851"/>
+   <rect id="rect1489" x="21.93" y="11.347" width="42.845" height="42.845" rx="2.2255" stroke="#313131" stroke-linecap="round" stroke-width="1.1551"/>
+  </g>
+  <g id="F6" transform="translate(339.9 26.153)" fill="#f7f7f7" fill-opacity=".77652" stroke-linejoin="round">
+   <rect id="rect1493" x="23.331" y="12.658" width="40.01" height="39.538" rx=".09809" ry=".098819" stroke="#4a4a4a" stroke-width="2.7851"/>
+   <rect id="rect1495" x="21.93" y="11.347" width="42.845" height="42.845" rx="2.2255" stroke="#313131" stroke-linecap="round" stroke-width="1.1551"/>
+  </g>
+  <g id="F7" transform="translate(383.9 26.153)" fill="#f7f7f7" fill-opacity=".77652" stroke-linejoin="round">
+   <rect id="rect1499" x="23.331" y="12.658" width="40.01" height="39.538" rx=".09809" ry=".098819" stroke="#4a4a4a" stroke-width="2.7851"/>
+   <rect id="rect1501" x="21.93" y="11.347" width="42.845" height="42.845" rx="2.2255" stroke="#313131" stroke-linecap="round" stroke-width="1.1551"/>
+  </g>
+  <g id="F8" transform="translate(427.9 26.153)" fill="#f7f7f7" fill-opacity=".77652" stroke-linejoin="round">
+   <rect id="rect1505" x="23.331" y="12.658" width="40.01" height="39.538" rx=".09809" ry=".098819" stroke="#4a4a4a" stroke-width="2.7851"/>
+   <rect id="rect1507" x="21.93" y="11.347" width="42.845" height="42.845" rx="2.2255" stroke="#313131" stroke-linecap="round" stroke-width="1.1551"/>
+  </g>
+  <g id="F9" transform="translate(493.64 26.153)" fill="#f7f7f7" fill-opacity=".77652" stroke-linejoin="round">
+   <rect id="rect1511" x="23.331" y="12.658" width="40.01" height="39.538" rx=".09809" ry=".098819" stroke="#4a4a4a" stroke-width="2.7851"/>
+   <rect id="rect1513" x="21.93" y="11.347" width="42.845" height="42.845" rx="2.2255" stroke="#313131" stroke-linecap="round" stroke-width="1.1551"/>
+  </g>
+  <g id="F10" transform="translate(537.64 26.153)" fill="#f7f7f7" fill-opacity=".77652" stroke-linejoin="round">
+   <rect id="rect1517" x="23.331" y="12.658" width="40.01" height="39.538" rx=".09809" ry=".098819" stroke="#4a4a4a" stroke-width="2.7851"/>
+   <rect id="rect1519" x="21.93" y="11.347" width="42.845" height="42.845" rx="2.2255" stroke="#313131" stroke-linecap="round" stroke-width="1.1551"/>
+  </g>
+  <g id="F11" transform="translate(581.64 26.153)" fill="#f7f7f7" fill-opacity=".77652" stroke-linejoin="round">
+   <rect id="rect1523" x="23.331" y="12.658" width="40.01" height="39.538" rx=".09809" ry=".098819" stroke="#4a4a4a" stroke-width="2.7851"/>
+   <rect id="rect1525" x="21.93" y="11.347" width="42.845" height="42.845" rx="2.2255" stroke="#313131" stroke-linecap="round" stroke-width="1.1551"/>
+  </g>
+  <g id="F12" transform="translate(625.64 26.153)" fill="#f7f7f7" fill-opacity=".77652" stroke-linejoin="round">
+   <rect id="rect1529" x="23.331" y="12.658" width="40.01" height="39.538" rx=".09809" ry=".098819" stroke="#4a4a4a" stroke-width="2.7851"/>
+   <rect id="rect1531" x="21.93" y="11.347" width="42.845" height="42.845" rx="2.2255" stroke="#313131" stroke-linecap="round" stroke-width="1.1551"/>
+  </g>
+  <g id="PrintScreen" transform="translate(693.3 26.153)" fill="#f7f7f7" fill-opacity=".77652" stroke-linejoin="round">
+   <rect id="rect1535" x="23.331" y="12.658" width="40.01" height="39.538" rx=".09809" ry=".098819" stroke="#4a4a4a" stroke-width="2.7851"/>
+   <rect id="rect1537" x="21.93" y="11.347" width="42.845" height="42.845" rx="2.2255" stroke="#313131" stroke-linecap="round" stroke-width="1.1551"/>
+  </g>
+  <g id="ScrollLock" transform="translate(737.3 26.153)" fill="#f7f7f7" fill-opacity=".77652" stroke-linejoin="round">
+   <rect id="rect1541" x="23.331" y="12.658" width="40.01" height="39.538" rx=".09809" ry=".098819" stroke="#4a4a4a" stroke-width="2.7851"/>
+   <rect id="rect1543" x="21.93" y="11.347" width="42.845" height="42.845" rx="2.2255" stroke="#313131" stroke-linecap="round" stroke-width="1.1551"/>
+  </g>
+  <g id="Pause" transform="translate(781.3 26.153)" fill="#f7f7f7" fill-opacity=".77652" stroke-linejoin="round">
+   <rect id="rect1547" x="23.331" y="12.658" width="40.01" height="39.538" rx=".09809" ry=".098819" stroke="#4a4a4a" stroke-width="2.7851"/>
+   <rect id="rect1549" x="21.93" y="11.347" width="42.845" height="42.845" rx="2.2255" stroke="#313131" stroke-linecap="round" stroke-width="1.1551"/>
+  </g>
+  <g id="Insert" transform="translate(693.3 99.708)" fill="#f7f7f7" fill-opacity=".77652" stroke-linejoin="round">
+   <rect id="rect1553" x="23.331" y="12.658" width="40.01" height="39.538" rx=".09809" ry=".098819" stroke="#4a4a4a" stroke-width="2.7851"/>
+   <rect id="rect1555" x="21.93" y="11.347" width="42.845" height="42.845" rx="2.2255" stroke="#313131" stroke-linecap="round" stroke-width="1.1551"/>
+  </g>
+  <g id="Home" transform="translate(737.3 99.708)" fill="#f7f7f7" fill-opacity=".77652" stroke-linejoin="round">
+   <rect id="rect1559" x="23.331" y="12.658" width="40.01" height="39.538" rx=".09809" ry=".098819" stroke="#4a4a4a" stroke-width="2.7851"/>
+   <rect id="rect1561" x="21.93" y="11.347" width="42.845" height="42.845" rx="2.2255" stroke="#313131" stroke-linecap="round" stroke-width="1.1551"/>
+  </g>
+  <g id="PageUp" transform="translate(781.3 99.708)" fill="#f7f7f7" fill-opacity=".77652" stroke-linejoin="round">
+   <rect id="rect1565" x="23.331" y="12.658" width="40.01" height="39.538" rx=".09809" ry=".098819" stroke="#4a4a4a" stroke-width="2.7851"/>
+   <rect id="rect1567" x="21.93" y="11.347" width="42.845" height="42.845" rx="2.2255" stroke="#313131" stroke-linecap="round" stroke-width="1.1551"/>
+  </g>
+  <g id="Delete" transform="translate(693.3 143.71)" fill="#f7f7f7" fill-opacity=".77652" stroke-linejoin="round">
+   <rect id="rect1571" x="23.331" y="12.658" width="40.01" height="39.538" rx=".09809" ry=".098819" stroke="#4a4a4a" stroke-width="2.7851"/>
+   <rect id="rect1573" x="21.93" y="11.347" width="42.845" height="42.845" rx="2.2255" stroke="#313131" stroke-linecap="round" stroke-width="1.1551"/>
+  </g>
+  <g id="End" transform="translate(737.3 143.71)" fill="#f7f7f7" fill-opacity=".77652" stroke-linejoin="round">
+   <rect id="rect1577" x="23.331" y="12.658" width="40.01" height="39.538" rx=".09809" ry=".098819" stroke="#4a4a4a" stroke-width="2.7851"/>
+   <rect id="rect1579" x="21.93" y="11.347" width="42.845" height="42.845" rx="2.2255" stroke="#313131" stroke-linecap="round" stroke-width="1.1551"/>
+  </g>
+  <g id="PageDown" transform="translate(781.3 143.71)" fill="#f7f7f7" fill-opacity=".77652" stroke-linejoin="round">
+   <rect id="rect1583" x="23.331" y="12.658" width="40.01" height="39.538" rx=".09809" ry=".098819" stroke="#4a4a4a" stroke-width="2.7851"/>
+   <rect id="rect1585" x="21.93" y="11.347" width="42.845" height="42.845" rx="2.2255" stroke="#313131" stroke-linecap="round" stroke-width="1.1551"/>
+  </g>
+  <g id="ArrowLeft" transform="translate(693.3 275.37)" fill="#f7f7f7" fill-opacity=".77652" stroke-linejoin="round">
+   <rect id="rect1589" x="23.331" y="12.658" width="40.01" height="39.538" rx=".09809" ry=".098819" stroke="#4a4a4a" stroke-width="2.7851"/>
+   <rect id="rect1591" x="21.93" y="11.347" width="42.845" height="42.845" rx="2.2255" stroke="#313131" stroke-linecap="round" stroke-width="1.1551"/>
+  </g>
+  <g id="ArrowDown" transform="translate(737.3 275.37)" fill="#f7f7f7" fill-opacity=".77652" stroke-linejoin="round">
+   <rect id="rect1595" x="23.331" y="12.658" width="40.01" height="39.538" rx=".09809" ry=".098819" stroke="#4a4a4a" stroke-width="2.7851"/>
+   <rect id="rect1597" x="21.93" y="11.347" width="42.845" height="42.845" rx="2.2255" stroke="#313131" stroke-linecap="round" stroke-width="1.1551"/>
+  </g>
+  <g id="ArrowRight" transform="translate(781.3 275.37)" fill="#f7f7f7" fill-opacity=".77652" stroke-linejoin="round">
+   <rect id="rect1601" x="23.331" y="12.658" width="40.01" height="39.538" rx=".09809" ry=".098819" stroke="#4a4a4a" stroke-width="2.7851"/>
+   <rect id="rect1603" x="21.93" y="11.347" width="42.845" height="42.845" rx="2.2255" stroke="#313131" stroke-linecap="round" stroke-width="1.1551"/>
+  </g>
+  <g id="ArrowUp" transform="translate(737.3 231.37)" fill="#f7f7f7" fill-opacity=".77652" stroke-linejoin="round">
+   <rect id="rect1607" x="23.331" y="12.658" width="40.01" height="39.538" rx=".09809" ry=".098819" stroke="#4a4a4a" stroke-width="2.7851"/>
+   <rect id="rect1609" x="21.93" y="11.347" width="42.845" height="42.845" rx="2.2255" stroke="#313131" stroke-linecap="round" stroke-width="1.1551"/>
+  </g>
+  <g id="NumLock" transform="translate(847.32 99.708)" fill="#f7f7f7" fill-opacity=".77652" stroke-linejoin="round">
+   <rect id="rect1613" x="23.331" y="12.658" width="40.01" height="39.538" rx=".09809" ry=".098819" stroke="#4a4a4a" stroke-width="2.7851"/>
+   <rect id="rect1615" x="21.93" y="11.347" width="42.845" height="42.845" rx="2.2255" stroke="#313131" stroke-linecap="round" stroke-width="1.1551"/>
+  </g>
+  <g id="NumpadDivide" transform="translate(891.32 99.708)" fill="#f7f7f7" fill-opacity=".77652" stroke-linejoin="round">
+   <rect id="rect1619" x="23.331" y="12.658" width="40.01" height="39.538" rx=".09809" ry=".098819" stroke="#4a4a4a" stroke-width="2.7851"/>
+   <rect id="rect1621" x="21.93" y="11.347" width="42.845" height="42.845" rx="2.2255" stroke="#313131" stroke-linecap="round" stroke-width="1.1551"/>
+  </g>
+  <g id="NumpadMultiply" transform="translate(935.32 99.708)" fill="#f7f7f7" fill-opacity=".77652" stroke-linejoin="round">
+   <rect id="rect1625" x="23.331" y="12.658" width="40.01" height="39.538" rx=".09809" ry=".098819" stroke="#4a4a4a" stroke-width="2.7851"/>
+   <rect id="rect1627" x="21.93" y="11.347" width="42.845" height="42.845" rx="2.2255" stroke="#313131" stroke-linecap="round" stroke-width="1.1551"/>
+  </g>
+  <g id="NumpadSubtract" transform="translate(979.32 99.708)" fill="#f7f7f7" fill-opacity=".77652" stroke-linejoin="round">
+   <rect id="rect1631" x="23.331" y="12.658" width="40.01" height="39.538" rx=".09809" ry=".098819" stroke="#4a4a4a" stroke-width="2.7851"/>
+   <rect id="rect1633" x="21.93" y="11.347" width="42.845" height="42.845" rx="2.2255" stroke="#313131" stroke-linecap="round" stroke-width="1.1551"/>
+  </g>
+  <g id="Numpad7" transform="translate(847.32 143.71)" fill="#f7f7f7" fill-opacity=".77652" stroke-linejoin="round">
+   <rect id="rect1637" x="23.331" y="12.658" width="40.01" height="39.538" rx=".09809" ry=".098819" stroke="#4a4a4a" stroke-width="2.7851"/>
+   <rect id="rect1639" x="21.93" y="11.347" width="42.845" height="42.845" rx="2.2255" stroke="#313131" stroke-linecap="round" stroke-width="1.1551"/>
+  </g>
+  <g id="Numpad8" transform="translate(891.32 143.71)" fill="#f7f7f7" fill-opacity=".77652" stroke-linejoin="round">
+   <rect id="rect1643" x="23.331" y="12.658" width="40.01" height="39.538" rx=".09809" ry=".098819" stroke="#4a4a4a" stroke-width="2.7851"/>
+   <rect id="rect1645" x="21.93" y="11.347" width="42.845" height="42.845" rx="2.2255" stroke="#313131" stroke-linecap="round" stroke-width="1.1551"/>
+  </g>
+  <g id="Numpad9" transform="translate(935.32 143.71)" fill="#f7f7f7" fill-opacity=".77652" stroke-linejoin="round">
+   <rect id="rect1649" x="23.331" y="12.658" width="40.01" height="39.538" rx=".09809" ry=".098819" stroke="#4a4a4a" stroke-width="2.7851"/>
+   <rect id="rect1651" x="21.93" y="11.347" width="42.845" height="42.845" rx="2.2255" stroke="#313131" stroke-linecap="round" stroke-width="1.1551"/>
+  </g>
+  <g id="Numpad4" transform="translate(847.32 187.72)" fill="#f7f7f7" fill-opacity=".77652" stroke-linejoin="round">
+   <rect id="rect1655" x="23.331" y="12.658" width="40.01" height="39.538" rx=".09809" ry=".098819" stroke="#4a4a4a" stroke-width="2.7851"/>
+   <rect id="rect1657" x="21.93" y="11.347" width="42.845" height="42.845" rx="2.2255" stroke="#313131" stroke-linecap="round" stroke-width="1.1551"/>
+  </g>
+  <g id="Numpad5" transform="translate(891.32 187.72)" fill="#f7f7f7" fill-opacity=".77652" stroke-linejoin="round">
+   <rect id="rect1661" x="23.331" y="12.658" width="40.01" height="39.538" rx=".09809" ry=".098819" stroke="#4a4a4a" stroke-width="2.7851"/>
+   <rect id="rect1663" x="21.93" y="11.347" width="42.845" height="42.845" rx="2.2255" stroke="#313131" stroke-linecap="round" stroke-width="1.1551"/>
+  </g>
+  <g id="Numpad6" transform="translate(935.32 187.72)" fill="#f7f7f7" fill-opacity=".77652" stroke-linejoin="round">
+   <rect id="rect1667" x="23.331" y="12.658" width="40.01" height="39.538" rx=".09809" ry=".098819" stroke="#4a4a4a" stroke-width="2.7851"/>
+   <rect id="rect1669" x="21.93" y="11.347" width="42.845" height="42.845" rx="2.2255" stroke="#313131" stroke-linecap="round" stroke-width="1.1551"/>
+  </g>
+  <g id="Numpad1" transform="translate(847.32 231.73)" fill="#f7f7f7" fill-opacity=".77652" stroke-linejoin="round">
+   <rect id="rect1673" x="23.331" y="12.658" width="40.01" height="39.538" rx=".09809" ry=".098819" stroke="#4a4a4a" stroke-width="2.7851"/>
+   <rect id="rect1675" x="21.93" y="11.347" width="42.845" height="42.845" rx="2.2255" stroke="#313131" stroke-linecap="round" stroke-width="1.1551"/>
+  </g>
+  <g id="Numpad2" transform="translate(891.32 231.73)" fill="#f7f7f7" fill-opacity=".77652" stroke-linejoin="round">
+   <rect id="rect1679" x="23.331" y="12.658" width="40.01" height="39.538" rx=".09809" ry=".098819" stroke="#4a4a4a" stroke-width="2.7851"/>
+   <rect id="rect1681" x="21.93" y="11.347" width="42.845" height="42.845" rx="2.2255" stroke="#313131" stroke-linecap="round" stroke-width="1.1551"/>
+  </g>
+  <g id="Numpad3" transform="translate(935.32 231.73)" fill="#f7f7f7" fill-opacity=".77652" stroke-linejoin="round">
+   <rect id="rect1685" x="23.331" y="12.658" width="40.01" height="39.538" rx=".09809" ry=".098819" stroke="#4a4a4a" stroke-width="2.7851"/>
+   <rect id="rect1687" x="21.93" y="11.347" width="42.845" height="42.845" rx="2.2255" stroke="#313131" stroke-linecap="round" stroke-width="1.1551"/>
+  </g>
+  <g id="NumpadDecimal" transform="translate(935.32 275.73)" fill="#f7f7f7" fill-opacity=".77652" stroke-linejoin="round">
+   <rect id="rect1691" x="23.331" y="12.658" width="40.01" height="39.538" rx=".09809" ry=".098819" stroke="#4a4a4a" stroke-width="2.7851"/>
+   <rect id="rect1693" x="21.93" y="11.347" width="42.845" height="42.845" rx="2.2255" stroke="#313131" stroke-linecap="round" stroke-width="1.1551"/>
+  </g>
+  <g id="Numpad0" transform="matrix(1.0269 0 0 1 846.5 187.7)" fill="#f7f7f7" fill-opacity=".77652" stroke-linejoin="round">
+   <rect id="rect4075-4" x="23.531" y="100.67" width="81.304" height="39.899" rx=".19933" ry=".09972" stroke="#4a4a4a" stroke-width="2.5468"/>
+   <rect id="rect4077-1" x="21.93" y="99.347" width="84.662" height="42.845" rx="3" stroke="#313131" stroke-linecap="round" stroke-width="1.1"/>
+  </g>
+  -->
+  <g id="OSLeft" transform="matrix(1.25 0 0 1.0024 59.084 275.62)" fill="#f7f7f7" fill-opacity=".77652" stroke-linejoin="round">
+   <rect id="rect1703" x="23.331" y="12.658" width="40.01" height="39.538" rx=".09809" ry=".098819" stroke="#4a4a4a" stroke-width="2.7851"/>
+   <rect id="rect1705" x="21.93" y="11.347" width="42.845" height="42.845" rx="2.2255" stroke="#313131" stroke-linecap="round" stroke-width="1.1551"/>
+  </g>
+  <g id="AltLeft" transform="matrix(1.25 0 0 1.0024 114.11 275.62)" fill="#f7f7f7" fill-opacity=".77652" stroke-linejoin="round">
+   <rect id="rect1709" x="23.331" y="12.658" width="40.01" height="39.538" rx=".09809" ry=".098819" stroke="#4a4a4a" stroke-width="2.7851"/>
+   <rect id="rect1711" x="21.93" y="11.347" width="42.845" height="42.845" rx="2.2255" stroke="#313131" stroke-linecap="round" stroke-width="1.1551"/>
+  </g>
+  <g id="AltRight" transform="matrix(1.25 0 0 1.0024 444.08 275.62)" fill="#f7f7f7" fill-opacity=".77652" stroke-linejoin="round">
+   <rect id="rect1715" x="23.331" y="12.658" width="40.01" height="39.538" rx=".09809" ry=".098819" stroke="#4a4a4a" stroke-width="2.7851"/>
+   <rect id="rect1717" x="21.93" y="11.347" width="42.845" height="42.845" rx="2.2255" stroke="#313131" stroke-linecap="round" stroke-width="1.1551"/>
+  </g>
+  <g id="OSRight" transform="matrix(1.25 0 0 1.0024 499.09 275.62)" fill="#f7f7f7" fill-opacity=".77652" stroke-linejoin="round">
+   <rect id="rect1727" x="23.331" y="12.658" width="40.01" height="39.538" rx=".09809" ry=".098819" stroke="#4a4a4a" stroke-width="2.7851"/>
+   <rect id="rect1729" x="21.93" y="11.347" width="42.845" height="42.845" rx="2.2255" stroke="#313131" stroke-linecap="round" stroke-width="1.1551"/>
+  </g>
+  <g id="ContextMenu" transform="matrix(1.25 0 0 1.0024 554.12 275.62)" fill="#f7f7f7" fill-opacity=".77652" stroke-linejoin="round">
+   <rect id="rect1733" x="23.331" y="12.658" width="40.01" height="39.538" rx=".09809" ry=".098819" stroke="#4a4a4a" stroke-width="2.7851"/>
+   <rect id="rect1735" x="21.93" y="11.347" width="42.845" height="42.845" rx="2.2255" stroke="#313131" stroke-linecap="round" stroke-width="1.1551"/>
+  </g>
+  <g id="ControlRight" transform="matrix(1.25 0 0 1.0024 609.14 275.62)" fill="#f7f7f7" fill-opacity=".77652" stroke-linejoin="round">
+   <rect id="rect1745" x="23.331" y="12.658" width="40.01" height="39.538" rx=".09809" ry=".098819" stroke="#4a4a4a" stroke-width="2.7851"/>
+   <rect id="rect1747" x="21.93" y="11.347" width="42.845" height="42.845" rx="2.2255" stroke="#313131" stroke-linecap="round" stroke-width="1.1551"/>
+  </g>
+  <g id="Enter" transform="matrix(.95499 0 0 1.0007 571.65 55.617)" fill="#f7f7f7" fill-opacity=".77652" stroke-linejoin="round">
+   <rect id="rect4063-5" x="22.902" y="144.67" width="99.938" height="39.513" rx=".24501" ry=".098755" stroke="#4a4a4a" stroke-width="2.7589"/>
+   <rect id="rect4065-6" x="21.93" y="143.35" width="102.43" height="42.845" rx="3" stroke="#313131" stroke-linecap="round" stroke-width="1.2"/>
+  </g>
+  <text id="text961" x="104.69627" y="171.94641" fill="#000000" font-family="sans-serif" font-size="14.111px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan959" x="104.69627" y="171.94641" font-family="'IBM Plex Sans'" font-size="14.111px" stroke-width=".26458">Q</tspan></text>
+  <text id="text961-0" x="149.13371" y="171.77708" fill="#000000" font-family="sans-serif" font-size="14.111px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan959-2" x="149.13371" y="171.77708" font-family="'IBM Plex Sans'" font-size="14.111px" stroke-width=".26458">W</tspan></text>
+  <text id="text961-0-6" x="192.25882" y="171.77708" fill="#000000" font-family="sans-serif" font-size="14.111px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan959-2-2" x="192.25882" y="171.77708" font-family="'IBM Plex Sans'" font-size="14.111px" stroke-width=".26458">E</tspan></text>
+  <text id="text1025" x="236.43484" y="171.77708" fill="#000000" font-family="sans-serif" font-size="14.111px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan1023" x="236.43484" y="171.77708" font-family="'IBM Plex Sans'" font-size="14.111px" stroke-width=".26458">R</tspan></text>
+  <text id="text1041" x="281.13373" y="171.77708" fill="#000000" font-family="sans-serif" font-size="14.111px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan1039" x="281.13373" y="171.77708" font-family="'IBM Plex Sans'" font-size="14.111px" stroke-width=".26458">T</tspan></text>
+  <text id="text1045" x="325.31717" y="171.77708" fill="#000000" font-family="sans-serif" font-size="14.111px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan1043" x="325.31717" y="171.77708" font-family="'IBM Plex Sans'" font-size="14.111px" stroke-width=".26458">Y</tspan></text>
+  <text id="text1049" x="368.31528" y="171.77708" fill="#000000" font-family="sans-serif" font-size="14.111px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan1047" x="368.31528" y="171.77708" font-family="'IBM Plex Sans'" font-size="14.111px" stroke-width=".26458">U</tspan></text>
+  <text id="text1053" x="412.68216" y="171.77708" fill="#000000" font-family="sans-serif" font-size="14.111px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan1051" x="412.68216" y="171.77708" font-family="'IBM Plex Sans'" font-size="14.111px" stroke-width=".26458">I</tspan></text>
+  <text id="text1057" x="456.69626" y="171.94641" fill="#000000" font-family="sans-serif" font-size="14.111px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan1055" x="456.69626" y="171.94641" font-family="'IBM Plex Sans'" font-size="14.111px" stroke-width=".26458">O</tspan></text>
+  <text id="text1061" x="500.25882" y="171.77708" fill="#000000" font-family="sans-serif" font-size="14.111px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan1059" x="500.25882" y="171.77708" font-family="'IBM Plex Sans'" font-size="14.111px" stroke-width=".26458">P</tspan></text>
+  <text id="text1065" x="545.19019" y="172.65198" fill="#000000" font-family="sans-serif" font-size="14.111px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan1071" x="545.19019" y="172.65198" font-family="'IBM Plex Sans'" font-size="14.111px" stroke-width=".26458">[</tspan></text>
+  <text id="text1069" x="589.36572" y="172.65198" fill="#000000" font-family="sans-serif" font-size="14.111px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan1073" x="589.36572" y="172.65198" font-family="'IBM Plex Sans'" font-size="14.111px" stroke-width=".26458">]</tspan></text>
+  <text id="text961-8" x="115.82913" y="216.049" fill="#000000" font-family="sans-serif" font-size="14.111px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan959-22" x="115.82913" y="216.049" font-family="'IBM Plex Sans'" font-size="14.111px" stroke-width=".26458">A</tspan></text>
+  <text id="text961-0-3" x="160.26657" y="215.87967" fill="#000000" font-family="sans-serif" font-size="14.111px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan959-2-3" x="160.26657" y="215.87967" font-family="'IBM Plex Sans'" font-size="14.111px" stroke-width=".26458">S</tspan></text>
+  <text id="text961-0-6-2" x="203.39169" y="215.87967" fill="#000000" font-family="sans-serif" font-size="14.111px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan959-2-2-7" x="203.39169" y="215.87967" font-family="'IBM Plex Sans'" font-size="14.111px" stroke-width=".26458">D</tspan></text>
+  <text id="text1025-2" x="247.56772" y="215.87967" fill="#000000" font-family="sans-serif" font-size="14.111px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan1023-4" x="247.56772" y="215.87967" font-family="'IBM Plex Sans'" font-size="14.111px" stroke-width=".26458">F</tspan></text>
+  <text id="text1041-5" x="292.26663" y="215.87967" fill="#000000" font-family="sans-serif" font-size="14.111px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan1039-4" x="292.26663" y="215.87967" font-family="'IBM Plex Sans'" font-size="14.111px" stroke-width=".26458">G</tspan></text>
+  <text id="text1045-1" x="336.45007" y="215.87967" fill="#000000" font-family="sans-serif" font-size="14.111px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan1043-6" x="336.45007" y="215.87967" font-family="'IBM Plex Sans'" font-size="14.111px" stroke-width=".26458">H</tspan></text>
+  <text id="text1049-8" x="379.44818" y="215.87967" fill="#000000" font-family="sans-serif" font-size="14.111px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan1047-0" x="379.44818" y="215.87967" font-family="'IBM Plex Sans'" font-size="14.111px" stroke-width=".26458">J</tspan></text>
+  <text id="text1053-4" x="423.81506" y="215.87967" fill="#000000" font-family="sans-serif" font-size="14.111px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan1051-8" x="423.81506" y="215.87967" font-family="'IBM Plex Sans'" font-size="14.111px" stroke-width=".26458">K</tspan></text>
+  <text id="text1057-8" x="467.82916" y="216.049" fill="#000000" font-family="sans-serif" font-size="14.111px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan1055-3" x="467.82916" y="216.049" font-family="'IBM Plex Sans'" font-size="14.111px" stroke-width=".26458">L</tspan></text>
+  <text id="text1061-5" x="511.39172" y="215.87967" fill="#000000" font-family="sans-serif" font-size="14.111px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan1183" x="511.39172" y="215.87967" font-family="'IBM Plex Sans'" font-size="14.111px" stroke-width=".26458">;</tspan></text>
+  <text id="text1065-4" x="556.32306" y="216.75456" fill="#000000" font-family="sans-serif" font-size="14.111px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan1187" x="556.32306" y="216.75456" font-family="'IBM Plex Sans'" font-size="14.111px" stroke-width=".26458">'</tspan></text>
+  <text id="text961-8-7" x="138.17308" y="260.15683" fill="#000000" font-family="sans-serif" font-size="14.111px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan959-22-5" x="138.17308" y="260.15683" font-family="'IBM Plex Sans'" font-size="14.111px" stroke-width=".26458">Z</tspan></text>
+  <text id="text961-0-3-6" x="182.61052" y="259.98749" fill="#000000" font-family="sans-serif" font-size="14.111px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan959-2-3-5" x="182.61052" y="259.98749" font-family="'IBM Plex Sans'" font-size="14.111px" stroke-width=".26458">X</tspan></text>
+  <text id="text961-0-6-2-7" x="225.73564" y="259.98749" fill="#000000" font-family="sans-serif" font-size="14.111px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan959-2-2-7-6" x="225.73564" y="259.98749" font-family="'IBM Plex Sans'" font-size="14.111px" stroke-width=".26458">C</tspan></text>
+  <text id="text1025-2-9" x="269.91168" y="259.98749" fill="#000000" font-family="sans-serif" font-size="14.111px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan1023-4-7" x="269.91168" y="259.98749" font-family="'IBM Plex Sans'" font-size="14.111px" stroke-width=".26458">V</tspan></text>
+  <text id="text1041-5-0" x="314.6106" y="259.98749" fill="#000000" font-family="sans-serif" font-size="14.111px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan1039-4-3" x="314.6106" y="259.98749" font-family="'IBM Plex Sans'" font-size="14.111px" stroke-width=".26458">B</tspan></text>
+  <text id="text1045-1-2" x="358.79404" y="259.98749" fill="#000000" font-family="sans-serif" font-size="14.111px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan1043-6-3" x="358.79404" y="259.98749" font-family="'IBM Plex Sans'" font-size="14.111px" stroke-width=".26458">N</tspan></text>
+  <text id="text1049-8-8" x="401.79214" y="259.98749" fill="#000000" font-family="sans-serif" font-size="14.111px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan1047-0-0" x="401.79214" y="259.98749" font-family="'IBM Plex Sans'" font-size="14.111px" stroke-width=".26458">M</tspan></text>
+  <text id="text1053-4-5" x="446.15903" y="259.98749" fill="#000000" font-family="sans-serif" font-size="14.111px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan1317" x="446.15903" y="259.98749" font-family="'IBM Plex Sans'" font-size="14.111px" stroke-width=".26458">,</tspan></text>
+  <text id="text1057-8-5" x="490.17313" y="260.15683" fill="#000000" font-family="sans-serif" font-size="14.111px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan1319" x="490.17313" y="260.15683" font-family="'IBM Plex Sans'" font-size="14.111px" stroke-width=".26458">.</tspan></text>
+  <text id="text1061-5-5" x="533.73566" y="259.98749" fill="#000000" font-family="sans-serif" font-size="14.111px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan1323" x="533.73566" y="259.98749" font-family="'IBM Plex Sans'" font-size="14.111px" stroke-width=".26458">/</tspan></text>
+  <text id="text961-5" x="83.734573" y="130.97757" fill="#000000" font-family="sans-serif" font-size="14.111px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan959-8" x="83.734573" y="130.97757" font-family="'IBM Plex Sans'" font-size="14.111px" stroke-width=".26458">1</tspan></text>
+  <text id="text961-0-9" x="128.172" y="130.80824" fill="#000000" font-family="sans-serif" font-size="14.111px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan959-2-33" x="128.172" y="130.80824" font-family="'IBM Plex Sans'" font-size="14.111px" stroke-width=".26458">2</tspan></text>
+  <text id="text961-0-6-6" x="171.2971" y="130.80824" fill="#000000" font-family="sans-serif" font-size="14.111px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan959-2-2-78" x="171.2971" y="130.80824" font-family="'IBM Plex Sans'" font-size="14.111px" stroke-width=".26458">3</tspan></text>
+  <text id="text1025-6" x="215.47313" y="130.80824" fill="#000000" font-family="sans-serif" font-size="14.111px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan1023-2" x="215.47313" y="130.80824" font-family="'IBM Plex Sans'" font-size="14.111px" stroke-width=".26458">4</tspan></text>
+  <text id="text1041-51" x="260.17203" y="130.80824" fill="#000000" font-family="sans-serif" font-size="14.111px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan1039-0" x="260.17203" y="130.80824" font-family="'IBM Plex Sans'" font-size="14.111px" stroke-width=".26458">5</tspan></text>
+  <text id="text1045-0" x="304.35547" y="130.80824" fill="#000000" font-family="sans-serif" font-size="14.111px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan1043-0" x="304.35547" y="130.80824" font-family="'IBM Plex Sans'" font-size="14.111px" stroke-width=".26458">6</tspan></text>
+  <text id="text1049-82" x="347.35358" y="130.80824" fill="#000000" font-family="sans-serif" font-size="14.111px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan1047-8" x="347.35358" y="130.80824" font-family="'IBM Plex Sans'" font-size="14.111px" stroke-width=".26458">7</tspan></text>
+  <text id="text1053-8" x="391.72046" y="130.80824" fill="#000000" font-family="sans-serif" font-size="14.111px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan1051-7" x="391.72046" y="130.80824" font-family="'IBM Plex Sans'" font-size="14.111px" stroke-width=".26458">8</tspan></text>
+  <text id="text1057-0" x="435.73456" y="130.97757" fill="#000000" font-family="sans-serif" font-size="14.111px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan1055-1" x="435.73456" y="130.97757" font-family="'IBM Plex Sans'" font-size="14.111px" stroke-width=".26458">9</tspan></text>
+  <text id="text1061-50" x="479.29712" y="130.80824" fill="#000000" font-family="sans-serif" font-size="14.111px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan1059-8" x="479.29712" y="130.80824" font-family="'IBM Plex Sans'" font-size="14.111px" stroke-width=".26458">0</tspan></text>
+  <text id="text1065-0" x="524.22845" y="131.68314" fill="#000000" font-family="sans-serif" font-size="14.111px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan1071-7" x="524.22845" y="131.68314" font-family="'IBM Plex Sans'" font-size="14.111px" stroke-width=".26458">-</tspan></text>
+  <text id="text1069-1" x="568.40405" y="131.68314" fill="#000000" font-family="sans-serif" font-size="14.111px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan1073-5" x="568.40405" y="131.68314" font-family="'IBM Plex Sans'" font-size="14.111px" stroke-width=".26458">=</tspan></text>
+  <text id="text1453" x="39.852573" y="130.97757" fill="#000000" font-family="sans-serif" font-size="14.111px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan1451" x="39.852573" y="130.97757" font-family="'IBM Plex Sans'" font-size="14.111px" stroke-width=".26458">`</tspan></text>
+  <text id="text1453-3" x="40.955383" y="172.36975" fill="#000000" font-family="sans-serif" font-size="14.111px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan1451-6" x="40.955383" y="172.36975" font-family="'IBM Plex Sans'" font-size="14.111px" stroke-width=".26458">Tab</tspan></text>
+  <text id="text1077" x="40.955383" y="216.64175" fill="#000000" font-family="'IBM Plex Sans'" font-size="14.111px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan1075" x="40.955383" y="216.64175">Caps</tspan><tspan id="tspan1079" x="40.955383" y="234.56616">Lock</tspan></text>
+  <text id="text1095" x="40.955383" y="260.74973" fill="#000000" font-family="sans-serif" font-size="14.111px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan1093" x="40.955383" y="260.74973" font-family="'IBM Plex Sans'" font-size="14.111px" stroke-width=".26458">Shift</tspan></text>
+  <text id="text1123" x="40.955383" y="304.76718" fill="#000000" font-family="sans-serif" font-size="14.111px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan1121" x="40.955383" y="304.76718" font-family="'IBM Plex Sans'" font-size="14.111px" stroke-width=".26458">Ctrl</tspan></text>
+  <text id="text1151" x="95.954941" y="304.76718" fill="#000000" font-family="sans-serif" font-size="14.111px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan1149" x="95.954941" y="304.76718" font-family="'IBM Plex Sans'" font-size="14.111px" stroke-width=".26458">Fn</tspan></text>
+  <text id="text1155" x="150.90794" y="304.76718" fill="#000000" font-family="sans-serif" font-size="14.111px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan1153" x="150.90794" y="304.76718" font-family="'IBM Plex Sans'" font-size="14.111px" stroke-width=".26458">Alt</tspan></text>
+  <text id="text1171" x="480.66193" y="304.76718" fill="#000000" font-family="sans-serif" font-size="14.111px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan1169" x="480.66193" y="304.76718" font-family="'IBM Plex Sans'" font-size="14.111px" stroke-width=".26458">Alt</tspan></text>
+  <text id="text1175" x="535.88562" y="304.76718" fill="#000000" font-family="sans-serif" font-size="14.111px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan1173" x="535.88562" y="304.76718" font-family="'IBM Plex Sans'" font-size="14.111px" stroke-width=".26458">Fn2</tspan></text>
+  <text id="text1179" x="590.91882" y="304.76718" fill="#000000" font-family="sans-serif" font-size="14.111px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan1177" x="590.91882" y="304.76718" font-family="'IBM Plex Sans'" font-size="14.111px" stroke-width=".26458">Menu</tspan></text>
+  <text id="text1183" x="646.50104" y="304.76718" fill="#000000" font-family="sans-serif" font-size="14.111px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan1181" x="646.50104" y="304.76718" font-family="'IBM Plex Sans'" font-size="14.111px" stroke-width=".26458">Ctrl</tspan></text>
+  <text id="text1191" x="576.90686" y="259.98749" fill="#000000" font-family="sans-serif" font-size="14.111px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan1189" x="576.90686" y="259.98749" font-family="'IBM Plex Sans'" font-size="14.111px" stroke-width=".26458">Shift</tspan></text>
+  <text id="text1195" x="600.1474" y="215.87967" fill="#000000" font-family="sans-serif" font-size="14.111px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan1193" x="600.1474" y="215.87967" font-family="'IBM Plex Sans'" font-size="14.111px" stroke-width=".26458">Enter</tspan></text>
+  <text id="text1199" x="633.17157" y="171.77708" fill="#000000" font-family="sans-serif" font-size="14.111px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan1197" x="633.17157" y="171.77708" font-family="'IBM Plex Sans'" font-size="14.111px" stroke-width=".26458">\</tspan></text>
+  <text id="text1203" x="612.94153" y="131.68314" fill="#000000" font-family="sans-serif" font-size="14.111px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan1201" x="612.94153" y="131.68314" font-family="'IBM Plex Sans'" font-size="14.111px" stroke-width=".26458">Backspace</tspan></text>
+  <!-- <text id="text1207" x="127.80176" y="54.870033" fill="#000000" font-family="sans-serif" font-size="14.111px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan1205" x="127.80176" y="54.870033" font-family="'IBM Plex Sans'" font-size="14.111px" stroke-width=".26458">F1</tspan></text>
+  <text id="text1211" x="172.23917" y="54.700706" fill="#000000" font-family="sans-serif" font-size="14.111px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan1209" x="172.23917" y="54.700706" font-family="'IBM Plex Sans'" font-size="14.111px" stroke-width=".26458">F2</tspan></text>
+  <text id="text1215" x="215.36427" y="54.700706" fill="#000000" font-family="sans-serif" font-size="14.111px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan1213" x="215.36427" y="54.700706" font-family="'IBM Plex Sans'" font-size="14.111px" stroke-width=".26458">F3</tspan></text>
+  <text id="text1219" x="259.54031" y="54.700706" fill="#000000" font-family="sans-serif" font-size="14.111px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan1217" x="259.54031" y="54.700706" font-family="'IBM Plex Sans'" font-size="14.111px" stroke-width=".26458">F4</tspan></text>
+  <text id="text1223" x="324.84329" y="54.870033" fill="#000000" font-family="sans-serif" font-size="14.111px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan1221" x="324.84329" y="54.870033" font-family="'IBM Plex Sans'" font-size="14.111px" stroke-width=".26458">F5</tspan></text>
+  <text id="text1227" x="369.2807" y="54.700706" fill="#000000" font-family="sans-serif" font-size="14.111px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan1225" x="369.2807" y="54.700706" font-family="'IBM Plex Sans'" font-size="14.111px" stroke-width=".26458">F6</tspan></text>
+  <text id="text1231" x="412.40582" y="54.700706" fill="#000000" font-family="sans-serif" font-size="14.111px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan1229" x="412.40582" y="54.700706" font-family="'IBM Plex Sans'" font-size="14.111px" stroke-width=".26458">F7</tspan></text>
+  <text id="text1235" x="456.58185" y="54.700706" fill="#000000" font-family="sans-serif" font-size="14.111px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan1233" x="456.58185" y="54.700706" font-family="'IBM Plex Sans'" font-size="14.111px" stroke-width=".26458">F8</tspan></text>
+  <text id="text1239" x="523.19171" y="54.870033" fill="#000000" font-family="sans-serif" font-size="14.111px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan1237" x="523.19171" y="54.870033" font-family="'IBM Plex Sans'" font-size="14.111px" stroke-width=".26458">F9</tspan></text>
+  <text id="text1243" x="567.62909" y="54.700706" fill="#000000" font-family="sans-serif" font-size="14.111px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan1241" x="567.62909" y="54.700706" font-family="'IBM Plex Sans'" font-size="14.111px" stroke-width=".26458">F10</tspan></text>
+  <text id="text1247" x="610.75421" y="54.700706" fill="#000000" font-family="sans-serif" font-size="14.111px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan1245" x="610.75421" y="54.700706" font-family="'IBM Plex Sans'" font-size="14.111px" stroke-width=".26458">F11</tspan></text>
+  <text id="text1251" x="654.93024" y="54.700706" fill="#000000" font-family="sans-serif" font-size="14.111px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan1249" x="654.93024" y="54.700706" font-family="'IBM Plex Sans'" font-size="14.111px" stroke-width=".26458">F12</tspan></text>
+  <text id="text1255" x="37.396515" y="54.870033" fill="#000000" font-family="sans-serif" font-size="14.111px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan1253" x="37.396515" y="54.870033" font-family="'IBM Plex Sans'" font-size="14.111px" stroke-width=".26458">ESC</tspan></text>
+  <text id="text1259" x="723.02863" y="53.250473" fill="#000000" font-family="sans-serif" font-size="11.289px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan1257" x="723.02863" y="53.250473" font-family="'IBM Plex Sans'" font-size="11.289px" stroke-width=".26458">Print</tspan></text>
+  <text id="text1263" x="765.85486" y="53.250473" fill="#000000" font-family="sans-serif" font-size="11.289px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan1269" x="765.85486" y="53.250473" font-family="'IBM Plex Sans'" font-size="11.289px" stroke-width=".26458">Scr Lk</tspan></text>
+  <text id="text1267" x="810.32977" y="53.250473" fill="#000000" font-family="sans-serif" font-size="11.289px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan1265" x="810.32977" y="53.250473" font-family="'IBM Plex Sans'" font-size="11.289px" stroke-width=".26458">Pause</tspan></text>
+  <text id="text1344" x="723.02826" y="128.66919" fill="#000000" font-family="sans-serif" font-size="11.289px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan1342" x="723.02826" y="128.66919" font-family="'IBM Plex Sans'" font-size="11.289px" stroke-width=".26458">Ins</tspan></text>
+  <text id="text1348" x="765.85449" y="128.66919" fill="#000000" font-family="sans-serif" font-size="11.289px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan1346" x="765.85449" y="128.66919" font-family="'IBM Plex Sans'" font-size="11.289px" stroke-width=".26458">Home</tspan></text>
+  <text id="text1352" x="810.32941" y="128.66919" fill="#000000" font-family="sans-serif" font-size="11.289px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan1350" x="810.32941" y="128.66919" font-family="'IBM Plex Sans'" font-size="11.289px" stroke-width=".26458">Pg Up</tspan></text>
+  <text id="text1356" x="723.02863" y="169.80719" fill="#000000" font-family="sans-serif" font-size="11.289px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan1354" x="723.02863" y="169.80719" font-family="'IBM Plex Sans'" font-size="11.289px" stroke-width=".26458">Del</tspan></text>
+  <text id="text1360" x="765.85486" y="169.80719" fill="#000000" font-family="sans-serif" font-size="11.289px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan1358" x="765.85486" y="169.80719" font-family="'IBM Plex Sans'" font-size="11.289px" stroke-width=".26458">End</tspan></text>
+  <text id="text1364" x="810.32977" y="169.80719" fill="#000000" font-family="sans-serif" font-size="11.289px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan1362" x="810.32977" y="169.80719" font-family="'IBM Plex Sans'" font-size="11.289px" stroke-width=".26458">Pg Dn</tspan></text>
+  <text id="text1368" x="877.0531" y="130.97757" fill="#000000" font-family="'IBM Plex Sans'" font-size="11.289px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan1366" x="877.0531" y="130.97757">Num </tspan><tspan id="tspan1418" x="877.0531" y="145.31712">Lock</tspan></text>
+  <text id="text1372" x="921.49048" y="130.80824" fill="#000000" font-family="sans-serif" font-size="14.111px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan1370" x="921.49048" y="130.80824" font-family="'IBM Plex Sans'" font-size="14.111px" stroke-width=".26458">/</tspan></text>
+  <text id="text1376" x="964.6156" y="130.80824" fill="#000000" font-family="sans-serif" font-size="14.111px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan1374" x="964.6156" y="130.80824" font-family="'IBM Plex Sans'" font-size="14.111px" stroke-width=".26458">*</tspan></text>
+  <text id="text1380" x="877.0531" y="172.11574" fill="#000000" font-family="sans-serif" font-size="14.111px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan1378" x="877.0531" y="172.11574" font-family="'IBM Plex Sans'" font-size="14.111px" stroke-width=".26458">7</tspan></text>
+  <text id="text1384" x="921.49048" y="171.94641" fill="#000000" font-family="sans-serif" font-size="14.111px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan1382" x="921.49048" y="171.94641" font-family="'IBM Plex Sans'" font-size="14.111px" stroke-width=".26458">8</tspan></text>
+  <text id="text1388" x="964.6156" y="171.94641" fill="#000000" font-family="sans-serif" font-size="14.111px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan1386" x="964.6156" y="171.94641" font-family="'IBM Plex Sans'" font-size="14.111px" stroke-width=".26458">9</tspan></text>
+  <text id="text1392" x="877.0531" y="216.21875" fill="#000000" font-family="sans-serif" font-size="14.111px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan1390" x="877.0531" y="216.21875" font-family="'IBM Plex Sans'" font-size="14.111px" stroke-width=".26458">4</tspan></text>
+  <text id="text1396" x="921.49048" y="216.04942" fill="#000000" font-family="sans-serif" font-size="14.111px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan1394" x="921.49048" y="216.04942" font-family="'IBM Plex Sans'" font-size="14.111px" stroke-width=".26458">5</tspan></text>
+  <text id="text1400" x="964.6156" y="216.04942" fill="#000000" font-family="sans-serif" font-size="14.111px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan1398" x="964.6156" y="216.04942" font-family="'IBM Plex Sans'" font-size="14.111px" stroke-width=".26458">6</tspan></text>
+  <text id="text1404" x="877.0531" y="260.32571" fill="#000000" font-family="sans-serif" font-size="14.111px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan1402" x="877.0531" y="260.32571" font-family="'IBM Plex Sans'" font-size="14.111px" stroke-width=".26458">1</tspan></text>
+  <text id="text1408" x="921.49048" y="260.1564" fill="#000000" font-family="sans-serif" font-size="14.111px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan1406" x="921.49048" y="260.1564" font-family="'IBM Plex Sans'" font-size="14.111px" stroke-width=".26458">2</tspan></text>
+  <text id="text1412" x="964.6156" y="260.1564" fill="#000000" font-family="sans-serif" font-size="14.111px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan1410" x="964.6156" y="260.1564" font-family="'IBM Plex Sans'" font-size="14.111px" stroke-width=".26458">3</tspan></text>
+  <text id="text1416" x="877.0531" y="304.11807" fill="#000000" font-family="sans-serif" font-size="14.111px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan1414" x="877.0531" y="304.11807" font-family="'IBM Plex Sans'" font-size="14.111px" stroke-width=".26458">0</tspan></text>
+  <text id="text1422" x="1009.2346" y="130.80824" fill="#000000" font-family="sans-serif" font-size="14.111px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan1420" x="1009.2346" y="130.80824" font-family="'IBM Plex Sans'" font-size="14.111px" stroke-width=".26458">-</tspan></text>
+  <g id="NumpadAdd" transform="matrix(0 -1.0269 1 0 901.88 264.51)" fill="#f7f7f7" fill-opacity=".77652" stroke-linejoin="round">
+   <rect id="rect1358" x="23.531" y="100.67" width="81.304" height="39.899" rx=".19933" ry=".09972" stroke="#4a4a4a" stroke-width="2.5468"/>
+   <rect id="rect1360" x="21.93" y="99.347" width="84.662" height="42.845" rx="3" stroke="#313131" stroke-linecap="round" stroke-width="1.1"/>
+  </g>
+  <text id="text1426" x="1009.2346" y="169.66042" fill="#000000" font-family="sans-serif" font-size="14.111px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan1424" x="1009.2346" y="169.66042" font-family="'IBM Plex Sans'" font-size="14.111px" stroke-width=".26458">+</tspan></text>
+  <g id="NumpadEnter" transform="matrix(0 -1.0269 1 0 901.9 352.6)" fill="#f7f7f7" fill-opacity=".77652" stroke-linejoin="round">
+   <rect id="rect1352" x="23.531" y="100.67" width="81.304" height="39.899" rx=".19933" ry=".09972" stroke="#4a4a4a" stroke-width="2.5468"/>
+   <rect id="rect1354" x="21.93" y="99.347" width="84.662" height="42.845" rx="3" stroke="#313131" stroke-linecap="round" stroke-width="1.1"/>
+  </g>
+  <text id="text1458" x="1009.2346" y="258.01718" fill="#000000" font-family="sans-serif" font-size="11.289px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan1456" x="1009.2346" y="258.01718" font-family="'IBM Plex Sans'" font-size="11.289px" stroke-width=".26458">Enter</tspan></text>
+  <text id="text1462" x="964.6156" y="304.11841" fill="#000000" font-family="sans-serif" font-size="14.111px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan1460" x="964.6156" y="304.11841" font-family="'IBM Plex Sans'" font-size="14.111px" stroke-width=".26458">.</tspan></text>
+  <text id="text1466" x="777.56006" y="260.32608" fill="#000000" font-family="sans-serif" font-size="14.111px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan1464" x="777.56006" y="260.32608" font-family="'IBM Plex Sans'" font-size="14.111px" stroke-width=".26458">🠕</tspan></text>
+  <text id="text1470" x="725.74255" y="304.28772" fill="#000000" font-family="sans-serif" font-size="14.111px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan1468" x="725.74255" y="304.28772" font-family="'IBM Plex Sans'" font-size="14.111px" stroke-width=".26458">🠔</tspan></text>
+  <text id="text1474" x="777.56006" y="304.11841" fill="#000000" font-family="sans-serif" font-size="14.111px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan1472" x="777.56006" y="304.11841" font-family="'IBM Plex Sans'" font-size="14.111px" stroke-width=".26458">🠗</tspan></text>
+  <text id="text1478" x="828.62402" y="304.11841" fill="#000000" font-family="sans-serif" font-size="14.111px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan1476" x="828.62402" y="304.11841" font-family="'IBM Plex Sans'" font-size="14.111px" stroke-width=".26458">🠖</tspan></text>
+  -->
+ </g>
+</svg>
